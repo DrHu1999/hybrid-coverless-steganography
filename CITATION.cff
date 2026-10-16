@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Please cite the associated paper when using this paper-based implementation."
+title: "Hybrid Coverless Image Steganography with Full-Body Human Images"
+version: 0.1.0
+type: software
+authors:
+  - family-names: Hu
+    given-names: Bo
+preferred-citation:
+  type: article
+  title: "A hybrid generative and mapping method for coverless image steganography with full-body human images"
+  authors:
+    - family-names: Hu
+      given-names: Bo
+    - family-names: Xiao
+      given-names: Yanhui
+    - family-names: Deng
+      given-names: Qiyao
+    - family-names: Tian
+      given-names: Huawei
+  journal: Neurocomputing
+  volume: "693"
+  start: "133842"
+  year: 2026
+  doi: 10.1016/j.neucom.2026.133842
